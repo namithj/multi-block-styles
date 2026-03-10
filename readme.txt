@@ -2,7 +2,7 @@
 Contributors: aardvark
 Tags: block styles, gutenberg, editor, blocks, styles
 Requires at least: 6.5
-Tested up to: 6.9.1
+Tested up to: 6.9
 Stable tag: 1.0.0
 Requires PHP: 8.2
 License: GPLv2 or later
