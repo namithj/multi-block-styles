@@ -5,10 +5,11 @@
 	<!-- Scan these files -->
 	<file>.</file>
 
-	<!-- Exclude build artifacts and dependencies -->
+	<!-- Exclude build artifacts, dependencies, and JS/CSS source (use ESLint/Stylelint) -->
 	<exclude-pattern>/build/*</exclude-pattern>
 	<exclude-pattern>/node_modules/*</exclude-pattern>
 	<exclude-pattern>/vendor/*</exclude-pattern>
+	<exclude-pattern>/src/*</exclude-pattern>
 
 	<!-- WordPress Coding Standards -->
 	<rule ref="WordPress">
