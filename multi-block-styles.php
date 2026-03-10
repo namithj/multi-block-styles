@@ -3,7 +3,7 @@
  * Plugin Name: Multi Block Styles
  * Description: Allows selecting multiple block styles simultaneously instead of just one.
  * Version: 1.0.0
- * Requires at least: 6.5
+ * Requires at least: 6.9.1
  * Requires PHP: 7.4
  * Author: namithjawahar
  * Author URI: http://www.smartlogix.co.in/
