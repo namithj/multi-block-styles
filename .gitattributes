@@ -38,7 +38,7 @@
 /README.md       export-ignore
 /.stylelintignore export-ignore
 /composer.json   export-ignore
-/composer-lock.json export-ignore
+/composer.lock export-ignore
 /package.json    export-ignore
 /package-lock.json export-ignore
 /src             export-ignore
