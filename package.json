@@ -1,0 +1,17 @@
+{
+	"name": "multi-block-styles",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"build": "wp-scripts build",
+		"start": "wp-scripts start",
+		"lint:js": "wp-scripts lint-js src/",
+		"lint:js:fix": "wp-scripts lint-js src/ --fix",
+		"lint:css": "wp-scripts lint-style 'src/**/*.css'",
+		"lint:css:fix": "wp-scripts lint-style 'src/**/*.css' --fix",
+		"lint": "npm run lint:js && npm run lint:css"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^30.27.0"
+	}
+}

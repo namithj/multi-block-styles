@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build output (regenerated via npm run build)
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Composer
+composer.lock
+
+# npm
+package-lock.json
+
+# PHPCS cache
+.phpcs.cache
+phpcs.xml
+
+# Stylelint cache
+.stylelintcache

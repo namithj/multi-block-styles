@@ -1,0 +1,4 @@
+/* Hide the original single-select panel, keep our replacement visible */
+.block-editor-block-styles:not([data-multi-styles]) {
+	display: none !important;
+}

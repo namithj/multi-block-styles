@@ -1,0 +1,30 @@
+{
+	"env": {
+		"browser": true,
+		"es2021": true
+	},
+	"parserOptions": {
+		"sourceType": "module",
+		"ecmaVersion": "latest",
+		"ecmaFeatures": {
+			"jsx": true
+		}
+	},
+	"settings": {
+		"import/resolver": {
+			"node": {
+				"extensions": [ ".js", ".jsx" ]
+			}
+		},
+		"import/core-modules": [
+			"@wordpress/hooks",
+			"@wordpress/compose",
+			"@wordpress/blocks",
+			"@wordpress/data",
+			"@wordpress/element",
+			"@wordpress/block-editor",
+			"@wordpress/components",
+			"@wordpress/i18n"
+		]
+	}
+}
