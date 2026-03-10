@@ -15,12 +15,6 @@ Thumbs.db
 *.swp
 *.swo
 
-# Composer
-composer.lock
-
-# npm
-package-lock.json
-
 # PHPCS cache
 .phpcs.cache
 phpcs.xml
