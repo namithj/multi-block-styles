@@ -53,10 +53,6 @@ The last declared style in CSS takes precedence. For best results, design styles
 
 No. Block styles are stored as CSS classes in the block's `className` attribute, which is a standard string. Multiple `is-style-*` classes have always been valid HTML — WordPress just didn't provide a UI to select more than one.
 
-== Screenshots ==
-
-1. The multi-select styles panel in the block inspector, showing multiple active styles on a Separator block.
-
 == Changelog ==
 
 = 1.0.0 =
