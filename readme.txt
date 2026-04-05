@@ -1,5 +1,5 @@
 === Multi Block Styles ===
-Contributors: aardvark
+Contributors: namithjawahar
 Tags: block styles, gutenberg, editor, blocks, styles
 Requires at least: 6.5
 Tested up to: 6.9
